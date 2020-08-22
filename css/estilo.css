@@ -52,6 +52,11 @@
 	text-decoration: none;
 }
 
+.proyectos{
+	background-color: #00b7c2;
+	height: 600px;
+}
+
 .sobreMi{
 	background-color: #00b7c2;
 	display: flex;
@@ -92,4 +97,20 @@
 	font-size: 20px;
 	font-family: helvetica;
 	text-align: center;
+}
+
+
+.wrapper {
+  display: grid;
+  grid-template-columns: 300px 300px 300px;
+  grid-gap: 10px;
+  color: #444;
+}
+
+.box {
+  background-color: #444;
+  color: #fff;
+  border-radius: 5px;
+  padding: 20px;
+  font-size: 150%;
 }
