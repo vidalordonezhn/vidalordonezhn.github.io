@@ -1,1 +1,0 @@
-alert("Bienvenido a mi home page");

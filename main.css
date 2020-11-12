@@ -1,0 +1,59 @@
+
+body {
+    background: rgb(9, 226, 241);
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+
+h2{
+    color: #024893;
+}
+
+.logo{
+    border-radius: 50%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    max-width: 100px;
+}
+
+.profile-name{
+    text-align: center;
+    padding: 30px;
+    font-size: 20px;
+    color: #024893;
+}
+
+.links_item{
+    background: #ffffff;
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    font-size: 20px;
+    border: 1px solid white;
+    border-width: 2px;
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 40px;
+}
+
+.links_item-a{
+    text-decoration: none;
+    color: #024893;
+    transition: color 1s;
+}
+
+.links_item:hover {
+    background: rgb(167, 255, 161);
+}
+.bottom-text{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
