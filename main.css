@@ -1,6 +1,6 @@
 
 body {
-    background: rgb(9, 226, 241);
+    background: #44858A;
     color: #fff;
     font-family: 'Roboto', sans-serif;
     font-size: 15px;
@@ -23,8 +23,8 @@ h2{
 .profile-name{
     text-align: center;
     padding: 30px;
-    font-size: 20px;
-    color: #024893;
+    font-size: 40px;
+    color: #FFF;
 }
 
 .links_item{
